@@ -1,4 +1,2 @@
 #base=javascript
 jquery.ui.core.js
-jquery.ui.position.js
-jquery.ui.autocomplete.js

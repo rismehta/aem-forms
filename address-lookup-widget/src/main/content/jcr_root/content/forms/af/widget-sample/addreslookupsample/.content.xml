@@ -9,7 +9,7 @@
         jcr:language="en"
         jcr:primaryType="cq:PageContent"
         jcr:title="Address Lookup Sample"
-        sling:resourceType="fd/af/components/page/tabbedenrollment">
+        sling:resourceType="fd/af/components/page2/afStaticTemplatePage">
         <guideContainer
             jcr:primaryType="nt:unstructured"
             sling:resourceType="fd/af/components/guideContainer"
