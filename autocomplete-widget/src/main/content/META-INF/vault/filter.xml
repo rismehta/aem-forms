@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/etc/clientlibs/custom-widgets"/>
+    <filter root="/content/forms/af/widget-sample/autocomplete"/>
+    <filter root="/content/dam/formsanddocuments/widget-sample/autocomplete"/>
+</workspaceFilter>

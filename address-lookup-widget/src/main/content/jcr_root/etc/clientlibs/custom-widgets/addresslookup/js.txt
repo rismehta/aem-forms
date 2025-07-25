@@ -1,4 +1,3 @@
 #base=javascript
 address-lookup-widget.js
-autocomplete-widget.js
 address-fill.js

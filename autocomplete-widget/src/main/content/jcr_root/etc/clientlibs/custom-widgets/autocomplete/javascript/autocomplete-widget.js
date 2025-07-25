@@ -24,7 +24,6 @@
             var parentOptionsMap = $.xfaWidget.dropDownList.prototype.getOptionsMap.apply(this, arguments);
             return $.extend({}, parentOptionsMap, {
                 "items": function(val) {
-                    debugger;
                     // Store all items for filtering
                     this.options.items = val;
                     
