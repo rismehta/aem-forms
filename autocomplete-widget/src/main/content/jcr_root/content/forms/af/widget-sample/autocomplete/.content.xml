@@ -79,7 +79,7 @@
                                         jcr:lastModified="{Date}2025-07-24T12:41:43.984+05:30"
                                         jcr:lastModifiedBy="admin"
                                         jcr:primaryType="nt:unstructured"
-                                        jcr:title="Drop-down List"
+                                        jcr:title="Auto Complete Example"
                                         sling:resourceType="fd/af/components/guidedropdownlist"
                                         css="widget_autoComplete"
                                         guideNodeClass="guideDropDownList"
